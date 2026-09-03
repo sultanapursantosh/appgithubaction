@@ -1,0 +1,9 @@
+# Virtual environments
+.venv/
+
+# Python cache folders
+**/__pycache__/
+*.pyc
+
+# Test runners
+.pytest_cache/
